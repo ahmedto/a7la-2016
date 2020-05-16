@@ -450,12 +450,12 @@ fieldset {
 	width: 162px;
 	float: left;
 }
-@font-face{font-family:"HelveticaNeueLTW20";font-weight:100;src:url("https://combinatronics.com/ahmedto/a7la-2016/master//1.eot?iefix") format("eot");}
-@font-face{font-family:"HelveticaNeueLTW20";font-weight:100;src:url("https://combinatronics.com/ahmedto/a7la-2016/master//2.woff") format("woff"),url("https://combinatronics.com/ahmedto/a7la-2016/master//2.ttf") format("truetype"),url("https://combinatronics.com/ahmedto/a7la-2016/master//2.svg#e953f49c-15a9-4394-97dd-a3f230e12e0b") format("svg");}
+@font-face{font-family:"HelveticaNeueLTW20";font-weight:100;src:url("https://combinatronics.com/ahmedto/a7la-2016/master/1.eot?iefix") format("eot");}
+@font-face{font-family:"HelveticaNeueLTW20";font-weight:100;src:url("https://combinatronics.com/ahmedto/a7la-2016/master/2.woff") format("woff"),url("https://combinatronics.com/ahmedto/a7la-2016/master/2.ttf") format("truetype"),url("https://combinatronics.com/ahmedto/a7la-2016/master/2.svg#e953f49c-15a9-4394-97dd-a3f230e12e0b") format("svg");}
 @font-face{font-family:"HelveticaNeueLTW20";font-weight:normal;src:url("helveticaheueltw20normal") format("eot");}
-@font-face{font-family:"HelveticaNeueLTW20";font-weight:normal;src:url("https://combinatronics.com/ahmedto/a7la-2016/master//3.woff") format("woff"),url("https://combinatronics.com/ahmedto/a7la-2016/master//3.ttf") format("truetype"),url("https://combinatronics.com/ahmedto/a7la-2016/master//3.svg#88820c1d-bb1c-4797-ae48-3d3a36fb5c10") format("svg");}
-@font-face{font-family:"HelveticaNeueLTW20";font-weight:bold;src:url("https://combinatronics.com/ahmedto/a7la-2016/master//4.eot?iefix") format("eot");}
-@font-face{font-family:"HelveticaNeueLTW20";font-weight:bold;src:url("https://combinatronics.com/ahmedto/a7la-2016/master//5.woff") format("woff"),url("https://combinatronics.com/ahmedto/a7la-2016/master//5.ttf") format("truetype"),url("https://combinatronics.com/ahmedto/a7la-2016/master//5.svg#27d196fc-66d6-4630-a928-d8127601c243") format("svg");}
+@font-face{font-family:"HelveticaNeueLTW20";font-weight:normal;src:url("https://combinatronics.com/ahmedto/a7la-2016/master/3.woff") format("woff"),url("https://combinatronics.com/ahmedto/a7la-2016/master/3.ttf") format("truetype"),url("https://combinatronics.com/ahmedto/a7la-2016/master/3.svg#88820c1d-bb1c-4797-ae48-3d3a36fb5c10") format("svg");}
+@font-face{font-family:"HelveticaNeueLTW20";font-weight:bold;src:url("https://combinatronics.com/ahmedto/a7la-2016/master/4.eot?iefix") format("eot");}
+@font-face{font-family:"HelveticaNeueLTW20";font-weight:bold;src:url("https://combinatronics.com/ahmedto/a7la-2016/master/5.woff") format("woff"),url("https://combinatronics.com/ahmedto/a7la-2016/master/5.ttf") format("truetype"),url("https://combinatronics.com/ahmedto/a7la-2016/master/5.svg#27d196fc-66d6-4630-a928-d8127601c243") format("svg");}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
