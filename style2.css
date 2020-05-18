@@ -5,6 +5,11 @@
 	font-size: 11px;
 	color: #888;
 }
+.forumline  iframe[src^="https://www.geniusdexchange.com"] {
+	display: none;
+	}
+#taboola-below-desktop-forum-thumbnails{display:NONE;} 
+
 html, body, div, span, h1, h2, h3, h4, h5, h6, p, img, small, strong, ol, ul, li, fieldset, form, label, nav {
 	margin: 0;
 	padding: 0;
