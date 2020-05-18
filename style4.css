@@ -10,6 +10,11 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, img, small, strong, ol, ul, li
 	padding: 0;
 	border: 0;
 }
+.forumline  iframe[src^="https://www.geniusdexchange.com"] {
+	display: none;
+	}
+#taboola-below-desktop-forum-thumbnails{display:NONE;} 
+
 a {
 	color: #65D1BA;
 }
