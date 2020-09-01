@@ -1,4 +1,4 @@
-﻿html {
+html {
 	margin: 0px;
 	padding: 0px;
 	font-family: tahoma;
@@ -27,7 +27,7 @@ ol, ul {
 	padding: 0;
 }
 .tcat {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
 	color: #fff;
 	font: bold 12px tahoma,sans-serif;
 	text-align: center;
@@ -47,7 +47,7 @@ ol, ul {
 }
 .thead {
 	border-top: 1px #f7f7f7 solid;
-	background: #e6e6e6 url('http://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
+	background: #e6e6e6 url('https://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
 	color: #686868;
 	padding: 12px 4px;
 	font: bold 12px tahoma,sans-serif;
@@ -206,7 +206,7 @@ legend {
 	font: 11px tahoma,verdana,geneva,lucida,'lucida grande',arial,helvetica,sans-serif;
 }
 .vbmenu_control {
-	background: #e6e6e6 url('http://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
+	background: #e6e6e6 url('https://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
 	color: #555;
 	font: bold 11px tahoma,verdana,geneva,lucida,'lucida grande',arial,helvetica,sans-serif;
 	white-space: nowrap;
@@ -292,7 +292,7 @@ fieldset {
 .tab_list li, :hover.tab_list li {
 	float: right;
 	border-top: 1px #f7f7f7 solid;
-	background: #e6e6e6 url('http://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
+	background: #e6e6e6 url('https://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
 	color: #686868;
 	text-align: center;
 }
@@ -360,7 +360,7 @@ fieldset {
 	overflow: hidden;
 }
 .CatTop {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
 	width: 100%;
 	height: 50px;
 	margin: 0 0 15px 0;
@@ -411,7 +411,7 @@ fieldset {
 	overflow: hidden;
 }
 .CatForumTop {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
 	width: 100%;
 	height: 50px;
 	margin: 0 0 15px 0;
@@ -477,7 +477,7 @@ body {
 	margin: 0;
 	padding: 0;
 	direction: rtl;
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/bg14.png) center top repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/bg14.png) center top repeat;
 }
 div, section {
 	overflow: hidden;
@@ -495,7 +495,7 @@ h3 a {
 	display: block;
 }
 #headerWrapper {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/header14.png) center top repeat-x;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/header14.png) center top repeat-x;
 	width: 100%;
 	height: 211px;
 }
@@ -505,7 +505,7 @@ h3 a {
 	height: 301px;
 }
 .strip {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/strip14.png) right top repeat-x;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/strip14.png) right top repeat-x;
 	width: 100%;
 	height: 5px;
 }
@@ -543,7 +543,7 @@ h3 a {
 	margin: 0;
 }
 .clolors {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/color14.png) right center no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/color14.png) right center no-repeat;
 	width: 320px;
 	height: 40px;
 	float: left;
@@ -562,19 +562,19 @@ h3 a {
 	height: 21px;
 }
 .color1 {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/ch14.png) left top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/ch14.png) left top no-repeat;
 }
 .color2 {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -21px top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -21px top no-repeat;
 }
 .color3 {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -42px top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -42px top no-repeat;
 }
 .color4 {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -63px top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -63px top no-repeat;
 }
 .color5 {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -84px top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/ch14.png) -84px top no-repeat;
 }
 .widget {
 	background: #fff;
@@ -656,7 +656,7 @@ nav3 select option {
 }
 .logo {
 	float: right;
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/logo113.png) right top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/logo113.png) right top no-repeat;
 	width: 204px;
 	height: 115px;
 	margin: 25px 0 0 0;
@@ -693,22 +693,22 @@ nav3 select option {
 	height: 26px;
 }
 .Facebook {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -105px no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -105px no-repeat;
 }
 .Twitter {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -79px no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -79px no-repeat;
 }
 .Google {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -53px no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -53px no-repeat;
 }
 .Flick {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -27px no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -27px no-repeat;
 }
 .RSSFeed {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -1px no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/icons14.png) -14px -1px no-repeat;
 }
 .search {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/search15.png) left top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/search15.png) left top no-repeat;
 	height: 30px;
 	margin: 10px 15px 10px 10px;
 }
@@ -774,16 +774,16 @@ nav3 select option {
 }
 .pagination li a {
 	display: block;
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/pagi14.png) right top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/pagi14.png) right top no-repeat;
 	width: 16px;
 	height: 8px;
 	text-indent: -1000px;
 }
 .pagination li a:hover {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/pagi14.png) left top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/pagi14.png) left top no-repeat;
 }
 .pagination .current a {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/pagi14.png) left top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/pagi14.png) left top no-repeat;
 }
 .mainSlider {
 	width: 590px;
@@ -796,7 +796,7 @@ nav3 select option {
 	margin: 20px auto;
 }
 .widgetTop {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/widget20.png) center top repeat-x;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/widget20.png) center top repeat-x;
 	width: 100%;
 	height: 50px;
 	margin: 0 0 0px 0;
@@ -823,7 +823,7 @@ nav3 select option {
 	height: 50px;
 }
 .Home {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/homebg13.png) 0 0 no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/homebg13.png) 0 0 no-repeat;
 	display: block;
 	width: 32px;
 	height: 32px;
@@ -905,7 +905,7 @@ nav3 select option {
 #footerWrapper {
 	width: 100%;
 	height: 406px;
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/footer14.png) center bottom repeat-x #fff;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/footer14.png) center bottom repeat-x #fff;
 }
 #footer {
 	padding: 0 25px;
@@ -1051,7 +1051,7 @@ nav3 select option {
 	margin: 5px 0 0 5px;
 }
 .flogo {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/logo113.png) center top no-repeat;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/logo113.png) center top no-repeat;
 	width: 204px;
 	height: 115px;
 	float: left;
@@ -1091,7 +1091,7 @@ nav3 select option {
 .FooterEndRight ul li a:hover {
 }
 .shbkat {
-	background: url(http://i39.servimg.com/u/f39/18/63/84/73/arabd13.png) center top no-repeat scroll;
+	background: url(https://i39.servimg.com/u/f39/18/63/84/73/arabd13.png) center top no-repeat scroll;
 	width: 153px;
 	height: 34px;
 	float: left;
@@ -1129,7 +1129,7 @@ nav3 select option {
 	overflow: visible;
 }
 th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
-    background: url(http://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
+    background: url(https://i39.servimg.com/u/f39/18/63/84/73/widget21.png) center top repeat-x;
 	color: #fff;
 	font: bold 12px tahoma,sans-serif;
 	text-align: center;
@@ -1140,7 +1140,7 @@ th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.t
 
 th {
     border-top: 1px #f7f7f7 solid;
-	background: #e6e6e6 url('http://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
+	background: #e6e6e6 url('https://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
 	color: #686868;
 	font: bold 12px tahoma,sans-serif;
 }
@@ -1148,8 +1148,9 @@ th {
 
 td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
     border-top: 1px #f7f7f7 solid;
-	background: #e6e6e6 url('http://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
+	background: #e6e6e6 url('https://i39.servimg.com/u/f39/18/63/84/73/widget20.png') repeat-x scroll left top;
 	color: #686868;
 	font: bold 12px tahoma,sans-serif;
 }
+
 
